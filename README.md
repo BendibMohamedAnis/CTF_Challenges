@@ -1,10 +1,8 @@
 # CTF_Challenges
  My scripts made for CTF challenges including techniques used and methodology
  
-<p align="center">
-![image](https://user-images.githubusercontent.com/46926963/194891774-768bca68-016a-4f90-aaf5-7b9bd6292e8c.png)
+<div style="text-align:center"><img src="https://i0.wp.com/securitydaily.net/wp-content/uploads/2014/05/ctf1.jpg" /></div>
 
-</p>
 
 # ROT.py : 
 Script used for CTF: MOD 26  on picoCTF , the code takes string of the flag and adapt it to ROT16 methodology , there for getting the real flag.
