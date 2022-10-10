@@ -1,7 +1,7 @@
 # CTF_Challenges
  My scripts made for CTF challenges including techniques used and methodology
  
-<div style="text-align:center"><img src="https://i0.wp.com/securitydaily.net/wp-content/uploads/2014/05/ctf1.jpg" /></div>
+<div style="align:center"><img src="https://i0.wp.com/securitydaily.net/wp-content/uploads/2014/05/ctf1.jpg" /></div>
 
 
 # ROT.py : 
