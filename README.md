@@ -1,7 +1,8 @@
 # CTF_Challenges
  My scripts made for CTF challenges including techniques used and methodology
  
-                             ![image](https://user-images.githubusercontent.com/46926963/194891087-74357c69-95fe-49bd-b8ea-0fc4297f5f5c.png)
+                                 ![image](https://user-images.githubusercontent.com/46926963/194891267-60b47dea-7415-4bb8-9e17-6b7bf76dea35.png)
+
 
 
 
